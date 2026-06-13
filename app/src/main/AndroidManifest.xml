@@ -5,7 +5,6 @@
     <application
         android:allowBackup="true"
         android:label="2x2 Workout"
-        android:icon="@mipmap/ic_launcher"
         android:theme="@style/Theme.AppCompat.NoActionBar">
        
         <activity
